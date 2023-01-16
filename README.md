@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/arydegtiar/">
+  <a href="https://www.linkedin.com/in/arydegtiar/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="http://arydegtiar.com.ar/">
