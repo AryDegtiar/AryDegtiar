@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arydegtiar/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Linkedin Badge"/>
   </a>
   <a href="http://arydegtiar.com.ar/">
     <img src="https://img.shields.io/badge/Webside-orange?style=for-the-badge&logo=html5&logoColor=white" alt="WebPersonal Badge"/>
